@@ -3,6 +3,7 @@
 Добро пожаловать в мой учебный репозиторий! Здесь собраны артефакты тестирования, созданные в рамках обучения.
 
 ## 📁 Что внутри:
+* 🏨 **[Functional Testing](https://docs.google.com/spreadsheets/d/1GeciFdnrsYeleyMvWsbE0eWonS3Qg2MKaWvymLQ6uXo/edit?gid=0#gid=0)** — тестирование функционала фильтров на сайте **[101Hotels](https://101hotels.com/main/cities/moskva)**.
 * 🐞 **[Bug Reports](./Bug_Reports/)** — папка с оформленными баг-репортами.
 * 🚀 **[API Testing](./API_Testing/)** — коллекция тестов Postman для Petstore API (CRUD)
 ## 🛠 Выполненные задачи:
