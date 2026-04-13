@@ -10,4 +10,4 @@
 
 ---
 ### Результаты тестирования (Артефакты):
-👉 [Открыть отчет по тестированию в Google Sheets](https://google.com)
+👉 [Открыть отчет по тестированию в Google Sheets]([https://google.com)](https://docs.google.com/spreadsheets/d/1GeciFdnrsYeleyMvWsbE0eWonS3Qg2MKaWvymLQ6uXo/edit?gid=0#gid=0)
